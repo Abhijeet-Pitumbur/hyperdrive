@@ -4,7 +4,7 @@ Hyperdrive puts the player behind the wheel of sports cars from various manufact
 
 The player races against AI-controlled cars in a 3D environment, with the objective of winning the race and hence obtaining 3 stars in the level. Over the course of the game, the player can gradually unlock access to various new cars, levels, maps, and race modes. Players can also choose to play in a 1-player quick race or challenge a friend in the 2-player mode featured in Hyperdrive.
 
-![](https://github.com/Abhijeet-Pitumbur/hyperdrive/project/gameplay.gif)
+![](https://github.com/Abhijeet-Pitumbur/hyperdrive/blob/main/project/gameplay.gif)
 
 ### [Download Game](https://drive.google.com/u/1/uc?id=1iAgXWyOTI7m2_WqPV8r7pbHfkqi6jl_E&export=download&confirm=t)
 
